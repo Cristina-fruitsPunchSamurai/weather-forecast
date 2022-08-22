@@ -18,5 +18,7 @@ Weather app using the OpenWeather API.
 * You can also access to detailed information such as : humidity, wind speed, and a description "cloudy, sunny, etc..."
 
 ## Screenshots
+![weather-app](https://user-images.githubusercontent.com/108081381/185948099-8e9e0916-8d0c-4300-85d7-03d31d61084f.png)
 
+<img width="551" alt="weather-app-mobile" src="https://user-images.githubusercontent.com/108081381/185948132-8fed5742-1f06-47c6-8949-b6daef314241.png">
 
