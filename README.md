@@ -1,7 +1,7 @@
 
 # Weather App 	:sun_behind_small_cloud::cloud_with_rain::sun_with_face:
 
-Weather app using the OpenWeather API. 
+Weather app using the OpenWeather API.
 
 # My objectives for this project
 
