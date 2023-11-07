@@ -9,7 +9,7 @@ Weather app using the OpenWeather API.
 2. Learn how to validate forms and filter thanks to regex
 
 ## Technologies
-* Pure JavaScript
+* Vanilla JavaScript
 * HTML5
 * CSS Flexbox and Grid
 
@@ -23,4 +23,10 @@ regex
 
 ## Screenshots
 
+### Mobile
+<img width="498" alt="weather-app-mobile" src="https://github.com/Cristina-fruitsPunchSamurai/weather-forecast/assets/108081381/068b10f7-86bf-465b-999f-8f13dd8d8b8f">
+
+
+### Desktop
+![weather-app](https://github.com/Cristina-fruitsPunchSamurai/weather-forecast/assets/108081381/947b8a93-108b-475c-af8b-f61ff5bc34b1)
 
